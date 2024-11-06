@@ -2,42 +2,42 @@ import SkillCard from "./SkillCard.jsx";
 
 const skillItem = [
     {
-        imgSrc: 'public/assets/java.png',
+        imgSrc: '/assets/java.png',
         label: 'Java',
         desc: 'Lenguaje de programación para backend'
     },
     {
-        imgSrc: 'public/assets/spring.png',
+        imgSrc: '/assets/spring.png',
         label: 'Spring Boot',
         desc: 'Framework de Java para aplicaciones web'
     },
     {
-        imgSrc: 'public/assets/python.png',
+        imgSrc: '/assets/python.png',
         label: 'Python',
         desc: 'Lenguaje de Programacion Multiuso.'
     },
     {
-        imgSrc: 'public/assets/django.png',
+        imgSrc: '/assets/django.png',
         label: 'Django',
         desc: 'Framework de Python para aplicaciones web'
     },
     {
-        imgSrc: 'public/assets/sql.png',
+        imgSrc: '/assets/sql.png',
         label: 'SQL',
         desc: 'Lenguaje para gestión de bases de datos'
     },
     {
-        imgSrc: 'public/assets/javascript.svg',
+        imgSrc: '/assets/javascript.svg',
         label: 'JavaScript',
         desc: 'Lenguaje de programación frontend para desarrollo web'
     },
     {
-        imgSrc: 'public/assets/react.svg',
+        imgSrc: '/assets/react.svg',
         label: 'React',
         desc: 'Librería de JavaScript para construir interfaces de usuario'
     },
     {
-        imgSrc: 'public/assets/tailwindcss.svg',
+        imgSrc: '/assets/tailwindcss.svg',
         label: 'TailwindCSS',
         desc: 'Framework CSS de utilidad para estilos'
     },

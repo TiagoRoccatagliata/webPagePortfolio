@@ -2,37 +2,37 @@ import ProjectCard from "./ProjectCard.jsx";
 
 const works = [
     {
-        imgSrc: 'public/assets/project-1.png',
+        imgSrc: '/assets/project-1.png', // Ruta correcta sin "public/"
         title: 'Página Web de Gestión de Torneos Deportivos',
         tags: ['React', 'Django', 'API'],
         projectLink: 'https://github.com/TiagoRoccatagliata/mgptorneos/'
     },
     {
-        imgSrc: 'public/assets/project-2.png',
+        imgSrc: '/assets/project-2.png',
         title: 'Página Web de Energías Renovables',
         tags: ['React', 'SQL'],
         projectLink: 'https://github.com/TiagoRoccatagliata/SolarMDP'
     },
     {
-        imgSrc: 'public/assets/project-4.jpg',
+        imgSrc: '/assets/project-4.jpg',
         title: 'Gestión de Departamentos APP',
         tags: ['Java', 'JavaFX', 'OOP'],
         projectLink: 'https://github.com/TiagoRoccatagliata/RockPaperScissor'
     },
     {
-        imgSrc: 'public/assets/project-3.png',
+        imgSrc: '/assets/project-3.png',
         title: 'Juego de Escritorio',
         tags: ['OOP', 'APP'],
         projectLink: 'https://github.com/TiagoRoccatagliata/RockPaperScissor'
     },
     {
-        imgSrc: 'public/assets/project-5.jpg',
+        imgSrc: '/assets/project-5.jpg',
         title: 'Gestión de Películas',
         tags: ['Python', 'SQLite'],
         projectLink: 'https://github.com/TiagoRoccatagliata/gestionPeliculas'
     },
     {
-        imgSrc: 'public/assets/project-6.jpg',
+        imgSrc: '/assets/project-6.jpg',
         title: 'Todos mis Repositorios',
         tags: ['Programación', 'Dev'],
         projectLink: 'https://github.com/TiagoRoccatagliata'
