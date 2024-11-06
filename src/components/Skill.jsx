@@ -2,42 +2,42 @@ import SkillCard from "./SkillCard.jsx";
 
 const skillItem = [
     {
-        imgSrc: 'src/assets/java.png',
+        imgSrc: 'public/assets/java.png',
         label: 'Java',
         desc: 'Lenguaje de programación para backend'
     },
     {
-        imgSrc: 'src/assets/spring.png',
+        imgSrc: 'public/assets/spring.png',
         label: 'Spring Boot',
         desc: 'Framework de Java para aplicaciones web'
     },
     {
-        imgSrc: 'src/assets/python.png',
+        imgSrc: 'public/assets/python.png',
         label: 'Python',
         desc: 'Lenguaje de Programacion Multiuso.'
     },
     {
-        imgSrc: 'src/assets/django.png',
+        imgSrc: 'public/assets/django.png',
         label: 'Django',
         desc: 'Framework de Python para aplicaciones web'
     },
     {
-        imgSrc: 'src/assets/sql.png',
+        imgSrc: 'public/assets/sql.png',
         label: 'SQL',
         desc: 'Lenguaje para gestión de bases de datos'
     },
     {
-        imgSrc: 'src/assets/javascript.svg',
+        imgSrc: 'public/assets/javascript.svg',
         label: 'JavaScript',
         desc: 'Lenguaje de programación frontend para desarrollo web'
     },
     {
-        imgSrc: 'src/assets/react.svg',
+        imgSrc: 'public/assets/react.svg',
         label: 'React',
         desc: 'Librería de JavaScript para construir interfaces de usuario'
     },
     {
-        imgSrc: 'src/assets/tailwindcss.svg',
+        imgSrc: 'public/assets/tailwindcss.svg',
         label: 'TailwindCSS',
         desc: 'Framework CSS de utilidad para estilos'
     },
