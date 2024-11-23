@@ -37,8 +37,8 @@ const Hero = () => {
 
                     <div className="flex items-center gap-3">
                         <a
-                            href="../../public/cv.pdf" // Ruta al archivo dentro de la carpeta `public`
-                            download="TiagoRoccatagliatacv.pdf" // Nombre del archivo cuando se descarga
+                            href="/cv.pdf" // Acceso directo desde la carpeta public
+                            download="TiagoRoccatagliatacv.pdf" // Nombre del archivo al descargar
                         >
                             <ButtonPrimary
                                 label="Descargar CV"
