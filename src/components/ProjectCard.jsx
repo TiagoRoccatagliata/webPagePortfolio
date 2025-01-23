@@ -34,7 +34,7 @@ const ProjectCard = ({
 
                 <div className="w-11 h-11 rounded-lg grid place-items-center bg-sky-400 text-zinc-950 shrink-0">
                     <span
-                        className="material-symbols-sharp"
+                        className="material-symbols-rounded"
                         aria-hidden="true"
                     >
                         arrow_outward
@@ -56,19 +56,19 @@ const ProjectCard = ({
 const getTagStyle = (label) => {
     switch (label) {
         case 'React':
-        case 'Java':
+        case 'PHP':
             return 'bg-blue-500 text-white';
-        case 'Django':
-        case 'Python':
+        case 'Laravel':
+        case 'Dev':
             return 'bg-green-500 text-white';
         case 'API':
-        case 'SQL':
+        case 'MySql':
             return 'bg-purple-500 text-white';
-        case 'Dev':
+        case 'Python':
         case 'Programación':
             return 'bg-orange-500 text-white';
-        case 'JavaFX':
-        case 'OOP':
+        case 'SQLite':
+        case 'Blade':
             return 'bg-teal-500 text-white';
         default:
             return 'bg-zinc-50/5 text-zinc-400';

@@ -8,7 +8,7 @@ const About = () => {
         },
         {
             label: 'Años de Experiencia',
-            number: 2
+            number: 1
         }
     ];
 

@@ -2,34 +2,24 @@ import SkillCard from "./SkillCard.jsx";
 
 const skillItem = [
     {
-        imgSrc: '/assets/java.png',
-        label: 'Java',
-        desc: 'Lenguaje de programación para backend'
+        imgSrc: '/assets/php.png',
+        label: 'PHP',
+        desc: 'Lenguaje de Programacion Web del lado del Servidor.'
     },
     {
-        imgSrc: '/assets/spring.png',
-        label: 'Spring Boot',
-        desc: 'Framework de Java para aplicaciones web'
-    },
-    {
-        imgSrc: '/assets/python.png',
-        label: 'Python',
-        desc: 'Lenguaje de Programacion Multiuso.'
-    },
-    {
-        imgSrc: '/assets/django.png',
-        label: 'Django',
-        desc: 'Framework de Python para aplicaciones web'
-    },
-    {
-        imgSrc: '/assets/sql.png',
-        label: 'SQL',
-        desc: 'Lenguaje para gestión de bases de datos'
+        imgSrc: '/assets/laravel.svg',
+        label: 'Laravel',
+        desc: 'Framework de PHP todo en uno.'
     },
     {
         imgSrc: '/assets/javascript.svg',
         label: 'JavaScript',
-        desc: 'Lenguaje de programación frontend para desarrollo web'
+        desc: 'Lenguaje de Programacion Web.'
+    },
+    {
+        imgSrc: '/assets/sql.png',
+        label: 'SQL',
+        desc: 'Lenguaje para gestión de bases de datos.'
     },
     {
         imgSrc: '/assets/react.svg',

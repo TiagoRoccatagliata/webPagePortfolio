@@ -4,26 +4,26 @@ const works = [
     {
         imgSrc: '/assets/project-1.png', // Ruta correcta sin "public/"
         title: 'Página Web de Gestión de Torneos Deportivos',
-        tags: ['React', 'Django', 'API'],
+        tags: ['Laravel', 'PHP', 'React'],
         projectLink: 'https://github.com/TiagoRoccatagliata/mgptorneos/'
     },
     {
         imgSrc: '/assets/project-2.png',
         title: 'Página Web de Energías Renovables',
-        tags: ['React', 'SQL'],
+        tags: ['React', 'SQLite'],
         projectLink: 'https://github.com/TiagoRoccatagliata/SolarMDP'
     },
     {
-        imgSrc: '/assets/project-4.jpg',
-        title: 'Gestión de Departamentos APP',
-        tags: ['Java', 'JavaFX', 'OOP'],
-        projectLink: 'https://github.com/TiagoRoccatagliata/RockPaperScissor'
+        imgSrc: '/assets/project-4.png',
+        title: 'Pagina de Ventas de Autos Usados.',
+        tags: ['PHP', 'Laravel', 'Blade', 'MySql'],
+        projectLink: 'https://srv700755.hstgr.cloud/'
     },
     {
-        imgSrc: '/assets/project-3.png',
-        title: 'Juego de Escritorio',
-        tags: ['OOP', 'APP'],
-        projectLink: 'https://github.com/TiagoRoccatagliata/RockPaperScissor'
+        imgSrc: '/assets/project3.png',
+        title: 'Proxima Pelicula de Marvel',
+        tags: ['PHP', 'API'],
+        projectLink: 'https://github.com/TiagoRoccatagliata/marvel-movie'
     },
     {
         imgSrc: '/assets/project-5.jpg',
